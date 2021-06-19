@@ -8,6 +8,11 @@
   "matic": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
   "bat": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
   "bsclink": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
-  "bscbnb": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  "bscbnb": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  "bscbanana": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+  "bsccake": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+  "bscmdx": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
+  "bscshiba": "0xdf0816cc717216c8b0863af8d4f0fc20bc65d643",
+  "bscbusd": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
 }
 
