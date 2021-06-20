@@ -1,8 +1,8 @@
 {
-  "name": "10-connect-to-blockchain-with-web3",
+  "name": "bsc-arbitrage",
   "version": "1.0.0",
   "description": "",
-  "main": "run-arbitrage.js",
+  "main": "checkprice.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +12,8 @@
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.0.35",
     "dotenv": "^8.2.0",
-    "ethers": "^5.3.1"
+    "ethers": "^5.3.1",
+    "mysql": "^2.18.1"
   },
   "engines": {
     "node": "14.x"
